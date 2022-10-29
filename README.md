@@ -9,6 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Official-Triranjan26?tab=repositories](https://github.com/Official-Triranjan26?tab=repositories)
 
+- 👨‍💻 All of my projects are diployed at [https://app.netlify.com/teams/triranjansamanta/sites](https://app.netlify.com/teams/triranjansamanta/sites)
+
+
 - 📫 How to reach me **triranjansamanta6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
